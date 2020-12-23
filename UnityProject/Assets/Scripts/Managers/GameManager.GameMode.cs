@@ -109,7 +109,7 @@ public partial class GameManager
 			}
 		}
 
-		return SecretGameMode ? "Secret" : GameMode.Name;
+		return SecretGameMode ? "Distress Beacon" : GameMode.Name;
 	}
 
 	/// <summary>
